@@ -1,6 +1,15 @@
 {
   "pokemon": [
     {
+      "name": "bulbasaur",
+      "hp": "40",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      },
+      "id": 1
+    },
+    {
       "id": 2,
       "name": "ivysaur",
       "hp": 60,
@@ -1340,6 +1349,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Lugia",
+      "hp": "106",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/249.png"
+      },
+      "id": 151
     }
   ]
 }
